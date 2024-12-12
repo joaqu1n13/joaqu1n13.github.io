@@ -9,4 +9,4 @@ Lab 7 - Lab 7 was one of my favorites because it just happened to be the lab whe
 
 Lab 1 - I would call lab 1 my favorite because even though it was the easiest possible lab where all we had to do was change the hello world sentence to have our names, it will probably be nostalgic for me for the rest of my career. The reason being because I had no idea how to do anything and I spent the whole time being confused about how to work the linux terminal.
 
-Lab 4 part 2 - This one was one of my favorites because it was a simple but still challenging for me at the time because of how new I was and still am to programming in C++. I did the second part on my own and it felt good to play the number guessing game and see it actually function properly.
+Lab 4 part 2 - This one was one of my favorites because it was a simple but still challenging for me at the time because of how new I was and still am to programming in C++. We learned how to take input, check if it matches a certain value, and then return a corresponding output. I did the second part on my own and it felt good to play the number guessing game and see it actually function properly. 
